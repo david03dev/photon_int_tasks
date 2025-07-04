@@ -1,0 +1,4 @@
+1. What is Git Pull request and Push request?
+what ETL testing?
+how do you handle multiple windows. Activate one among multiple tabs based on its title?
+Collect all anchor tags and find broken links?
